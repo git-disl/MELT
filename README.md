@@ -84,9 +84,9 @@ python evaluate.py --csv lgbm_pred_0.559999.csv --thresholds 0.3 0.4 0.5 0.6
 
 ## License
 
-This project — both the code and the dataset — is released under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license. See [LICENSE](LICENSE) for the full text.
+This project is released under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license. See [LICENSE](LICENSE) for the full text.
 
-You are free to use, share, and adapt the material for **non-commercial** purposes, provided you give appropriate credit (please cite our paper). **Commercial use requires separate permission from the authors.**
+You are free to use, share, and adapt the material for non-commercial purposes, provided you give appropriate credit (please cite our paper). Commercial use requires separate permission from the authors.
 
 
 
